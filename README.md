@@ -31,7 +31,7 @@ A simple Login page to apply the idea of sass structure in Login Page Project wi
 
 ### Contact
 
-Mail: <Baha.hasim@dci-student.de><br>
+Mail: <Baha.hasim@dci.student><br>
 GitHub: [Bhasim](https://github.com/)<br>
 LinkedIn: [Bahaaldean Hashim](https://www.linkedin.com/in/bahaaldean-hashim-598463103)
 
