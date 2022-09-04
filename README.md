@@ -2,7 +2,7 @@
 
 simple Login Page Project with HTML5-Sass Structure.
 
-**[Test this app yourself](https://github.com/Bhasim/sass-log-in-page)**
+**[Test this app yourself](https://bhasim.github.io/log-in-page/)**
 
 ---
 
